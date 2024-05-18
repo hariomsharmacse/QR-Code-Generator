@@ -103,6 +103,7 @@ h1{
 @media (max-width: 600px){
 
     body{
+        height: 90vh;
       background-repeat: repeat-y;
       background-size: cover;
     }
